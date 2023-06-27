@@ -45,7 +45,7 @@ Ensure that you have the necessary software dependencies, such as .NET MAUI, ins
 # License: GNU GPL 3.0
 #
 
-[you can get splitbillapp.apk file inside .zip file to install this application in you android device]
-
+# Link to doenload the apk file for android device 
+(https://drive.google.com/file/d/1blqePe_ByUVALxLaPIVVU_gYV2waHDb0/view?usp=sharing)
 #
 Thank you for choosing **SplitBillApp!**
